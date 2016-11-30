@@ -1,0 +1,2 @@
+goods_info.proto
+person_info.proto

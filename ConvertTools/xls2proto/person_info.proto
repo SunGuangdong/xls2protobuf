@@ -1,0 +1,18 @@
+/**
+* @file:   person_info.proto
+* @author: Jumbo 
+* @brief:  这个文件是通过工具自动生成的，建议不要手动修改
+*/
+
+syntax="proto3";
+
+package uFramework;
+
+message PERSON_INFO{
+    /** 姓名 */
+    bytes name = 1;
+}
+
+message PERSON_INFO_ARRAY {
+    repeated PERSON_INFO items = 1;
+}

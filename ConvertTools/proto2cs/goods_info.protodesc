@@ -1,0 +1,50 @@
+
+º
+goods_info.proto
+uFramework"Ö
+
+GOODS_INFO
+name (
+sex (
+level_limit (
+club_vip_level (
+qb_2 (
+consume_type (
+	time_unit (
+	is_online (
+can_buy	 (
+can_recharge
+ (
+online_time (
+offline_time (
+privileged_plat_id_list (!
+privileged_plat_is_online (
+privileged_plat_can_buy ($
+privileged_plat_can_recharge (
+payment_terms (
+
+valid_time (
+sort_priority (
+suit_number (
+bag_sort_priority (
+status (
+rank (
+price_discount (
+vip_discount (1
+price_table (2.uFramework.GOODS_INFO.Price4
+
+goods_attr (2 .uFramework.GOODS_INFO.GoodsAttr
+description (
+limit_id (
+subSystemId (B
+Price
+price_dq (
+
+price_gold (
+price_value (2
+	GoodsAttr
+	attr_type (
+
+attr_value ("9
+GOODS_INFO_ARRAY%
+items (2.uFramework.GOODS_INFObproto3

@@ -1,0 +1,15 @@
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\Google.Protobuf.dll
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\Google.ProtocolBuffersLite.dll
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+E:\project\uframwork\client\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\project\uframwork\client\Temp\UnityVS_obj\Debug\client.CSharp.csprojResolveAssemblyReference.cache
+E:\project\uframwork\client\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+E:\project\uframwork\client\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb

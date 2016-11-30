@@ -1,0 +1,4 @@
+C:\Users\asgardgame\Documents\Google.Protobuf\Google.Protobuf\bin\Debug\Google.Protobuf.dll
+C:\Users\asgardgame\Documents\Google.Protobuf\Google.Protobuf\bin\Debug\Google.Protobuf.pdb
+C:\Users\asgardgame\Documents\Google.Protobuf\Google.Protobuf\obj\Debug\Google.Protobuf.dll
+C:\Users\asgardgame\Documents\Google.Protobuf\Google.Protobuf\obj\Debug\Google.Protobuf.pdb
