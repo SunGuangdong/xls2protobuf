@@ -61,11 +61,14 @@
     <Reference Include="UnityEditor">
       <HintPath>Library\UnityAssemblies\UnityEditor.dll</HintPath>
     </Reference>
-    <Reference Include="Google.ProtocolBuffersLite">
-      <HintPath>Assets\Plugins\Google.ProtocolBuffersLite.dll</HintPath>
-    </Reference>
     <Reference Include="Google.Protobuf">
       <HintPath>Assets\Plugins\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.ProtocolBuffers.Serialization">
+      <HintPath>Assets\Plugins\Google.ProtocolBuffers.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.ProtocolBuffers">
+      <HintPath>Assets\Plugins\Google.ProtocolBuffers.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
