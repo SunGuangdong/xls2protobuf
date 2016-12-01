@@ -1,16 +1,18 @@
 /**
 * @file:   person_info.proto
-* @author: Jumbo 
-* @brief:  杩欎釜鏂囦欢鏄�氳繃宸ュ叿鑷姩鐢熸垚鐨勶紝寤鸿涓嶈鎵嬪姩淇敼
+* @author: jameyli <jameyli AT tencent DOT com>
+* @brief:  这个文件是通过工具自动生成的，建议不要手动修改
 */
 
-syntax="proto3";
+syntax="proto2";
 
-package uFramework;
+package tnt_deploy;
 
 message PERSON_INFO{
+    /** ID */
+    required uint32 id = 1 [default = 0];
     /** 濮撳悕 */
-    bytes name = 1;
+    optional bytes name = 2 [default = ""];
 }
 
 message PERSON_INFO_ARRAY {
